@@ -1,0 +1,19 @@
+# dependencies
+package-lock.json
+/node_modules
+
+# misc
+/.env
+
+.cache
+.puppeteerrc.cjs
+/.wwebjs_auth
+/.wwebjs_cache
+
+# gcloud config
+app.yaml
+
+# tests
+/coverage
+
+docker-hub-auth.json
